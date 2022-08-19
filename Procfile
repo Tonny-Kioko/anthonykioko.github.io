@@ -1,0 +1,1 @@
+web: gunicorn anthonykioko.wsgi --log-file -
