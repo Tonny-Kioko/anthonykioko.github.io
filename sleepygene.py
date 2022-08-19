@@ -1,0 +1,1 @@
+print("Cheer up, sleepy Jean Oh, what can it mean To a daydream believer And a homecoming queen!!")
